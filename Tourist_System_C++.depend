@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1654826087 source:c:\users\adones\downloads\c++ project\tourist_system_c++\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+

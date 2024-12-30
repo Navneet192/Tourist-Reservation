@@ -26,3 +26,5 @@ This project is a Tourist Reservation System implemented in C++. It allows users
    Use `g++` to compile the project files. For example:
    ```sh
    g++ -std=c++11 -o TouristSystem admin.cpp user.cpp
+2. Run THe Executable
+3. ./TouristSystem     

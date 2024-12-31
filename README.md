@@ -28,3 +28,7 @@ This project is a Tourist Reservation System implemented in C++. It allows users
    g++ -std=c++11 -o TouristSystem admin.cpp user.cpp
 2. Run THe Executable
 3. ./TouristSystem     
+
+# Seasonal Packages
+1. **Feature:** Offer special packages for certain times of the year (e.g., summer or winter).
+2. **Benefit:** Creates an attractive offering for users during peak seasons.
